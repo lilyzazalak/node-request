@@ -1,0 +1,26 @@
+{
+  "name": "node-request",
+  "version": "1.0.0",
+  "description": "\"example\"",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilyzazalak/node-request.git"
+  },
+  "author": "lilyzazalak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilyzazalak/node-request/issues"
+  },
+  "homepage": "https://github.com/lilyzazalak/node-request#readme"
+}
